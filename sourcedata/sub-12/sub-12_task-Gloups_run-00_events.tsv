@@ -1,0 +1,19 @@
+onset	duration	trial_type	expected_response	given_response	response_time
+ 0.000	 1.995	instruction	0	0	 0.000
+ 1.995	 1.995	filler	0	0	 0.000
+ 3.990	 0.532	fixation_cross	0	0	 0.000
+ 4.522	 0.798	pres	1	0	 2147483.647
+ 5.320	 1.530	resp	0	0	 0.000
+ 6.850	 1.463	jitter	0	0	 0.000
+ 8.313	 0.531	fixation_cross	0	0	 0.000
+ 8.844	 0.799	pres	1	0	 2147483.647
+ 9.643	 1.529	resp	0	0	 0.000
+ 11.172	 0.931	jitter	0	0	 0.000
+ 12.103	 0.532	ixation_cross	0	0	 0.000
+ 12.635	 0.798	pres	1	0	 2147483.647
+ 13.433	 1.530	resp	0	0	 0.000
+ 14.963	 0.931	jitter	0	0	 0.000
+ 15.894	 0.532	ixation_cross	0	0	 0.000
+ 16.426	 0.798	pres	1	0	 2147483.647
+ 17.224	 1.529	resp	0	0	 0.000
+ 18.753	 0.931	jitter	0	0	 0.000

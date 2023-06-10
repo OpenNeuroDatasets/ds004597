@@ -1,0 +1,22 @@
+{
+    "Name": "Gloups",
+    "BIDSVersion": "1.0.2",
+    "License": "",
+    "Authors": [
+        "Snezana Todorovic",
+        "Elin Runnqvist",
+        "Valerie Chanoine",
+        "Bruno Nazarian",
+        "Julien Sein",
+        "Jean-Luc Anton"
+    ],
+    "Acknowledgements": "This work was performed in the Center IRM-INT (UMR 7289, AMUCNRS), platform member of France Life Imaging network (grant ANR11-INBS-0006).",
+    "HowToAcknowledge": "say here how you would like to be acknowledged",
+    "Funding": [
+        "list your funding sources"
+    ],
+    "ReferencesAndLinks": [
+        "a data paper",
+        "a resource to be cited when using the data"
+    ]
+}
